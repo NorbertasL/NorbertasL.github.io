@@ -331,3 +331,7 @@ footer{
   content: '';
   background: #fafafa;
 }
+
+.education-item{
+  margin-bottom: 30px;
+}
